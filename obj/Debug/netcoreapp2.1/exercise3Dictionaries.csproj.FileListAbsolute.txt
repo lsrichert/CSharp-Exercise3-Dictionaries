@@ -1,0 +1,11 @@
+/Users/lauren/workspace/csharp/exercise3Dictionaries/bin/Debug/netcoreapp2.1/exercise3Dictionaries.deps.json
+/Users/lauren/workspace/csharp/exercise3Dictionaries/bin/Debug/netcoreapp2.1/exercise3Dictionaries.runtimeconfig.json
+/Users/lauren/workspace/csharp/exercise3Dictionaries/bin/Debug/netcoreapp2.1/exercise3Dictionaries.runtimeconfig.dev.json
+/Users/lauren/workspace/csharp/exercise3Dictionaries/bin/Debug/netcoreapp2.1/exercise3Dictionaries.dll
+/Users/lauren/workspace/csharp/exercise3Dictionaries/bin/Debug/netcoreapp2.1/exercise3Dictionaries.pdb
+/Users/lauren/workspace/csharp/exercise3Dictionaries/obj/Debug/netcoreapp2.1/exercise3Dictionaries.csprojAssemblyReference.cache
+/Users/lauren/workspace/csharp/exercise3Dictionaries/obj/Debug/netcoreapp2.1/exercise3Dictionaries.csproj.CoreCompileInputs.cache
+/Users/lauren/workspace/csharp/exercise3Dictionaries/obj/Debug/netcoreapp2.1/exercise3Dictionaries.AssemblyInfoInputs.cache
+/Users/lauren/workspace/csharp/exercise3Dictionaries/obj/Debug/netcoreapp2.1/exercise3Dictionaries.AssemblyInfo.cs
+/Users/lauren/workspace/csharp/exercise3Dictionaries/obj/Debug/netcoreapp2.1/exercise3Dictionaries.dll
+/Users/lauren/workspace/csharp/exercise3Dictionaries/obj/Debug/netcoreapp2.1/exercise3Dictionaries.pdb
