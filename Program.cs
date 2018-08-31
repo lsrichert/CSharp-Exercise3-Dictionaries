@@ -1,4 +1,5 @@
 ﻿// This is correct code from class for C Sharp Exercise 3-Dictionaries
+// Look over last half more
 
 using System;
 using System.Collections.Generic;
